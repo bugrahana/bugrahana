@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bugrahana
 - 👀 I’m interested in system development, DevOps, and cloud computing.
-- 🌱 I’m currently learning Golang and distributed system architectures.
+- 🌱 I’m building backend services and infrastructure tooling in Go.
 - 💞️ I’m looking to collaborate on open-source projects if the topic is interesting to me.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bugrahan-arslan/)
 - 😄 Pronouns: he/him
