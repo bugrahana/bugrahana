@@ -1,9 +1,11 @@
 ### Hi, I'm Buğrahan 👋
 
-- 🌱 I'm building backend services and infrastructure tooling in **Go**.
+- 🌱 I build backend services and infrastructure tooling in **Go** — 5+ years in DevOps & platform engineering.
 - 👀 Interested in distributed systems, DevOps, and cloud computing.
-- 🔭 Featured: [**go-notification-service**](https://github.com/bugrahana/go-notification-service) — event-driven multi-channel notifications in Go (Redis priority queue, circuit breaker, retries, DLQ).
-- 💞️ Open to collaborating on interesting open-source projects.
+- 🔭 Featured:
+  - [**go-cloud-scheduler**](https://github.com/bugrahana/go-cloud-scheduler) — cloud resource scheduler: instance groups, cron start/stop, job audit + retry, cost reports, Casbin RBAC, Prometheus metrics.
+  - [**go-notification-service**](https://github.com/bugrahana/go-notification-service) — event-driven multi-channel notifications (Redis priority queue, circuit breaker, retries, DLQ).
+- 💼 Currently open to new opportunities (DevOps / Platform / Go backend).
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bugrahan-arslan/).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: into cross-stitch, origami, sci-fi & fantasy, and puzzle games.
